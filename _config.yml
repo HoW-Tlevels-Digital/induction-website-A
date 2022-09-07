@@ -13,7 +13,3 @@ include:
   - gallery.md
 
 theme: minima
-
-header_links:
-  - home.md
-  - about.md
