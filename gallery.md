@@ -1,5 +1,4 @@
-## [Home](/index.md) | [About Us](/about.md) | [Gallery](/gallery.md) | [Shop](/shop.md)
-# Carpentry Gallery
+# Gallery
 
 | This is some of my carpentry work, it includes hand carved trinkets and other small objects and also larger projects like chests and tables.      |  |
 | ----------- | ----------- |
