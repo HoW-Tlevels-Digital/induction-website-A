@@ -5,5 +5,7 @@ relative_links:
   enabled: true
   collections: true
 
+title: Peter's Woodworking
+
 include:
   - index.md
