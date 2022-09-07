@@ -1,7 +1,7 @@
---
+---
 layout: default
 title: Shop
---
+---
 
 ### **Hand Crafted Table With Shelves**
 ![Table](images/table.png)
