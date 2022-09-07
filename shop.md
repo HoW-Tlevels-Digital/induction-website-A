@@ -1,6 +1,6 @@
 ## [Home](/index.md) | [About Us](/about.md) | [Gallery](/gallery.md) | [Shop](/shop.md)
 
-# The Shop
+# <u><font color="red">The Shop</font></u>
 
 ### **Hand Crafted Table With Shelves**
 ![Table](images/table.png)
