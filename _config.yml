@@ -12,4 +12,4 @@ include:
   - index.md
   - gallery.md
 
-theme: minimal-mistakes-jekyll
+theme: minimal
