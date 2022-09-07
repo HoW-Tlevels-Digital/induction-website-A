@@ -28,3 +28,12 @@ Description:
 - Each piece is intricately carved.
 - Useful drawer for storing pieces.
 - Long lasting.
+
+### **Hand Crafted Boat (Oars Not Included)**
+![Table](images/boat.png)
+### <u>Information</u>
+Price: £654.99 <br>
+Description:
+- Completely robust and waterproof.
+- Maximum of three people at a time.
+- Great for fishing trips.
