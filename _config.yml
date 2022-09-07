@@ -11,5 +11,6 @@ title: Peter's Woodworking
 include:
   - index.md
   - gallery.md
+  - materials.md
 
 theme: minima

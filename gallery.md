@@ -3,9 +3,7 @@ layout: default
 title: Gallery
 ---
 
-| This is some of my carpentry work, it includes hand carved trinkets and other small objects and also larger projects like chests and tables.      |  |
-| ----------- | ----------- |
-|       |        |
+### This is some of my carpentry work, it includes hand carved trinkets and other small objects and also larger projects like chests and tables.      
 
 | Wooden Penguins      |  |
 | ----------- | ----------- |
