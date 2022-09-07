@@ -1,4 +1,4 @@
-# <u> **About Us** </u>
+# About Us
 Peters Woodworking is a business founded by non other than Peter Parry himself.
 He has dedicated his life to an industry that has always been his passion, also he makes wooden penguins and stuff which is pretty cool.
 

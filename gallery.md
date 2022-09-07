@@ -1,5 +1,4 @@
-## [Home](/index.md) | [About Us](/about.md) | [Gallery](/gallery.md) | [Shop](/shop.md)
-# Carpentry Gallery
+# Gallery
 
 
 | Wooden Penguins      |  |
